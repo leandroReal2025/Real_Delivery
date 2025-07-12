@@ -86,7 +86,7 @@
 }
 
 #corpo-inicio {
-    background-image: url(./img/fundo-inicio.jpg);
+    background-image: url(/img/fundo-inicio.jpg);
     background-size: cover;
     position: relative;
     height: 100%;
