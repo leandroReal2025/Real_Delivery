@@ -2,7 +2,7 @@ const cont_prod = document.getElementById('container-produtos');
 
 const produtos = [
     {
-        img: "../img/prog.png",
+        img: "./img/prog.png",
         nome: "Progressiva Vegetal Havana - 500 ML",
         desc: "Alinha os fios, reduz o frizz e proporciona brilho intenso com efeito duradouro",
         link: "https://entrega.logzz.com.br/pay/mem37nr45/progcreme150"
