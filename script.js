@@ -17,7 +17,7 @@ const produtos = [
 
 produtos.forEach((element) => {
     let novoLink = document.createElement("a");
-    novoLink.target = "blank";
+    novoLink.target = "_blank";
     novoLink.classList.add("container-links");
 
     novoLink.innerHTML = `
