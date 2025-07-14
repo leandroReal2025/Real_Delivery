@@ -10,7 +10,7 @@ const produtos = [
     {
         img: "./img/relogioD20.png",
         nome: "Novo Smartwatch D20",
-        desc: "um dispositivo inteligente que combina, estilo tecnologia e saúde, com alta definição você pode visualizar suas notificações, chamadas e mensagens com clareza incrível mesmo sob a luz do sul",
+        desc: "Um dispositivo inteligente que combina, estilo tecnologia e saúde, com alta definição você pode visualizar suas notificações, chamadas e mensagens com clareza incrível mesmo sob a luz do sul",
         link: "https://entrega.logzz.com.br/pay/mem5mn487/1-unidade-relogio-smart-oferta-4"
     }
 ];
