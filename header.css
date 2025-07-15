@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+#cabecalho {
+    height: 60px;
+    background-color: #670f22;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+}
+
+#logo {
+    height: 70%;
+    border-radius: 50%;
+}
+
+#navigation a {
+    margin-left: 20px;
+    color: #FFF;
+    text-underline-offset: 4px;
+    font-family: 'Roboto';
+}
